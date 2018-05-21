@@ -55,7 +55,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 * **Vinicius Morais** - *Initial work* - [moraisvinny](https://github.com/moraisvinny)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/moraisvinny/mundo-melhor/graphs/contributors) who participated in this project.
 
 ## License
 
